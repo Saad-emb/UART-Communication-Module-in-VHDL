@@ -4,7 +4,7 @@ use ieee.numeric_std.all;
 
 entity top is port (
 
-	clk : in std_logic;
+    clk : in std_logic;
     data_rx : in std_logic;
     data_out : out std_logic
     
