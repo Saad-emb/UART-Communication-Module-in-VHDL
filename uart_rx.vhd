@@ -5,7 +5,7 @@ use ieee.numeric_std.all;
 
 entity uart_rx is port (
 	
-	clk : in std_logic;
+    clk : in std_logic;
     data_in: in std_logic;
     data_tx : out std_logic_vector(7 downto 0);
     done: out std_logic);
