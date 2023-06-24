@@ -1,6 +1,6 @@
 # UART-Communication-Module-in-VHDL
 This repository contains a VHDL implementation of a UART (Universal Asynchronous Receiver-Transmitter) communication module. The module consists of separate transmitter (uart_tx) and receiver (uart_rx) entities, designed to enable reliable serial communication between devices.
-The UART communication module has been tested successfully on the FPGA Tang Nano 9K board. The design has been verified as UAfor functionality and reliability in a hardware environment.
+The UART communication module has been tested successfully on the FPGA Tang Nano 9K board. 
 
 ## Features
 
